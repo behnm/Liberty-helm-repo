@@ -3,12 +3,12 @@ entries:
   liberty-web:
   - apiVersion: v2
     appVersion: v1
-    created: "2021-05-27T17:30:41.493354967+04:30"
+    created: "2021-05-27T17:31:34.750617948+04:30"
     description: A Helm chart for Kubernetes
-    digest: 6094be7d2a49c3d996b457dc58e2a2241c2f4956eca523e98f9e47e9a7985436
+    digest: 6f878cf6c075f888d711a64aa382e0b34f4fc55bc3ac65f5767621eabfb1776e
     name: liberty-web
     type: application
     urls:
     - https://behnm.github.io/Liberty-helm-repo/liberty-web-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-27T17:30:41.488894954+04:30"
+generated: "2021-05-27T17:31:34.747866894+04:30"
